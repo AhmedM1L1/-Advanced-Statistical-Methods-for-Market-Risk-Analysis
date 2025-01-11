@@ -1,7 +1,7 @@
 # -Advanced-Statistical-Methods-for-Market-Risk-Analysis
 
 ### **Project Overview**
-This project focuses on calculating various risk measures in financial markets, such as Value at Risk (VaR), Expected Shortfall (ES), and Hurst Exponent. The goal is to apply methods like **Empirical VaR**, **Non-Parametric VaR**, **Monte Carlo simulations**, and extreme value theory (GEV) to analyze market risk. We also estimate the Almgren and Chriss model for liquidity risk and explore correlations in foreign exchange (FX) rates.
+This project focuses on calculating various risk measures in financial markets, such as Value at Risk (VaR), Expected Shortfall (ES), and Hurst Exponent. The goal is to apply methods like  Empirical VaR, Non-Parametric VaR, Monte Carlo simulations, and extreme value theory (GEV) to analyze market risk. We also estimate the Almgren and Chriss model for liquidity risk and explore correlations in foreign exchange (FX) rates.
 
 ---
 
